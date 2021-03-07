@@ -1,0 +1,6 @@
+
+Var: a; 
+Function: test 
+Body: 
+EndBody.
+test();

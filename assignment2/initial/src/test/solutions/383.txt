@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a)),VarDecl(Id(b)),VarDecl(Id(c)),FuncDecl(Id(f)[],([][Return(CallExpr(Id(random),[]))])),FuncDecl(Id(main)[],([][CallStmt(Id(print),[CallExpr(Id(f),[])])]))])

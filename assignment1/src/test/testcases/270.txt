@@ -1,0 +1,5 @@
+
+Function: unary
+Body: 
+    a = !b; b = -c; 
+EndBody.

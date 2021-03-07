@@ -1,0 +1,11 @@
+
+Function: main
+Body:
+    Function: g
+    Body:
+    EndBody.
+
+    Function: f
+    Body:
+    EndBody.
+EndBody.

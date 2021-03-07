@@ -1,0 +1,5 @@
+
+Function: and 
+Body: 
+    a = a && b && b; 
+EndBody.

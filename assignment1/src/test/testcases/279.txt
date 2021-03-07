@@ -1,0 +1,7 @@
+
+Function: test 
+Parameter: 
+Body: 
+    While(1) Do 
+    EndWhile. 
+EndBody.

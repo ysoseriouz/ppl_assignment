@@ -1,0 +1,7 @@
+
+Function: foo 
+Body: 
+    Do  
+    While (True) 
+    EndDo. 
+EndBody.

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(test)[],([][If(BinaryOp(>,Id(n),IntLiteral(10)),[],[Return(IntLiteral(5))])Else([],[Return(BooleanLiteral(true))])]))])

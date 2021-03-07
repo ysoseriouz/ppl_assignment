@@ -1,0 +1,9 @@
+
+Var: a, b = 100;
+Var: c = True;
+Function: test 
+    Parameter: x,y=1,z[5]
+    Body: 
+        t = factor(x, y, z);
+        Return t; 
+    EndBody.

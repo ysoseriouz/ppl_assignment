@@ -1,0 +1,5 @@
+
+Function: fc 
+Body: 
+    foo(test(f(a, b, c))); 
+EndBody.

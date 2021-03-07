@@ -1,0 +1,7 @@
+
+Function: test
+Body: 
+    Var: a, b, c;
+    a = test();
+    b = para(x, y);
+EndBody.

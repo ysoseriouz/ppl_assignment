@@ -1,0 +1,9 @@
+
+Function: test
+Body: 
+    If n > 10 Then 
+        Return 5; 
+    Else Return True; 
+    Var: n; 
+    EndIf. 
+EndBody.

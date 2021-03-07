@@ -1,0 +1,5 @@
+
+Function: or 
+Body: 
+    a = a || b || b;
+EndBody.

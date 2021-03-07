@@ -1,0 +1,24 @@
+
+Function: binarySearch
+Parameter: arr, leftIdx, rightIdx, target
+Body:
+    ** Assume array is sorted **
+    Var: mid;
+    If rightIdx >= leftIdx Then
+        mid = leftIdx + (rightIdx - leftIdx) \ 2;
+
+        ** If found target **
+        If arr[mid] == target Then
+            Return mid;
+        EndIf.
+
+        ** Target is at left branch **
+        If arr[mid] > target Then
+            Return binarySearch(arr, 1, mid - 1, target);
+        EndIf.
+
+         ** Target is at right branch **
+        Return binarySearch(arr, mid + 1, rightIdx, target);
+    EndIf.
+    Return -1;
+EndBody.

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(search)[VarDecl(Id(target)),VarDecl(Id(arr)),VarDecl(Id(size))],([VarDecl(Id(idx))][For(Id(idx),IntLiteral(0),BinaryOp(<,Id(idx),Id(size)),IntLiteral(1),[],[If(BinaryOp(==,ArrayCell(Id(arr),[Id(idx)]),Id(target)),[],[Return(Id(idx))])Else([],[])]),Return(UnaryOp(-,IntLiteral(1)))]))])

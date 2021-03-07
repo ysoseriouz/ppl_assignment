@@ -1,0 +1,15 @@
+
+Function: stmtmix 
+Body: 
+    Break; 
+    Continue; 
+    For(i = 1, i < 3, 1) Do 
+        v = v + 1; 
+    EndFor. 
+    Return 1; 
+
+    Do 
+        x = x*x; 
+    While (True) 
+    EndDo. 
+EndBody.

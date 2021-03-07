@@ -1,0 +1,4 @@
+
+                ** @Author: Nguyen Tien Thanh **
+                Var: x = 1;
+                

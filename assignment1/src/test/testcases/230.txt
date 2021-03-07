@@ -1,0 +1,7 @@
+
+Function: test
+Body: 
+    Var: a, b, c;
+    a = a > b; 
+    b = a >= c; 
+EndBody.

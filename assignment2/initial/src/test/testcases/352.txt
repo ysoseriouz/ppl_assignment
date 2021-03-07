@@ -1,0 +1,14 @@
+
+Function: main
+Body:
+    Var: i;
+    For(i=0,i<10,1) Do
+    Var: i;
+    For(i=0,i<10,1) Do
+    Var: i;
+    For(i=0,i<10,1) Do
+
+    EndFor.
+    EndFor.
+    EndFor.
+EndBody.

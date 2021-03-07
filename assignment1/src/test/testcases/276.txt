@@ -1,0 +1,11 @@
+
+Var: a, b, c; 
+Function: f 
+Body: 
+    Return random(); 
+EndBody. 
+
+Function: main 
+Body: 
+    print(f());
+EndBody.

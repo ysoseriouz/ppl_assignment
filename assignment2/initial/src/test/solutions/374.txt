@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(stmtmix)[],([][Break(),Continue(),For(Id(i),IntLiteral(1),BinaryOp(<,Id(i),IntLiteral(3)),IntLiteral(1),[VarDecl(Id(v))],[Assign(Id(v),BinaryOp(+,Id(v),IntLiteral(1)))]),Return(IntLiteral(1)),Dowhile([VarDecl(Id(x),ArrayLiteral(IntLiteral(5),ArrayLiteral(IntLiteral(1))))],[Assign(Id(x),BinaryOp(*,Id(x),Id(x)))],BooleanLiteral(true))]))])

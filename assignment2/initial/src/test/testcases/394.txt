@@ -1,0 +1,16 @@
+
+Function: factorial
+Parameter: n
+Body:
+    Var: i;
+    Var: fact = 1;
+
+    If n <= 1 Then
+        Return 1;
+    EndIf.
+    
+    For (i = 1, i <= n, 1) Do
+        fact = fact * i;
+    EndFor.
+    Return fact;
+EndBody.

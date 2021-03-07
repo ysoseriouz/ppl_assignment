@@ -1,0 +1,15 @@
+
+Var: a, b; 
+Function: test 
+Body: 
+    a = "Hi"; 
+EndBody. 
+
+Function: foo 
+Parameter: a, c 
+Body: 
+    For (i = 1, i <= 4, 1) Do 
+        print(i);
+    EndFor. 
+    Return a + c; 
+EndBody.

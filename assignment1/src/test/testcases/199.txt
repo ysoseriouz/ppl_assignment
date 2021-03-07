@@ -1,0 +1,9 @@
+
+                ** @Author: Nguyen Tien Thanh 
+                 * This is
+                 * a unterminated
+                 * multi-line
+                 * Comment
+                /*
+                Var: x = 1;
+                

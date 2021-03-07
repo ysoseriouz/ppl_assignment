@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([VarDecl(Id(a))][Assign(Id(a),BinaryOp(\,StringLiteral(Hello),StringLiteral(ello)))]))])

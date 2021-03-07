@@ -1,0 +1,5 @@
+
+Function: equal 
+Body:
+    a = (a == b) == b + c; 
+EndBody.

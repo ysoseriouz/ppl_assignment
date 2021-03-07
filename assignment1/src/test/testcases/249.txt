@@ -1,0 +1,12 @@
+
+Function: foo 
+Parameter: a, c 
+Body: 
+    Do 
+        print(i); 
+        If i >= 99 Then Continue; 
+        EndIf.
+    While (i <= 4)
+    EndDo. 
+    Return a + c; 
+EndBody.

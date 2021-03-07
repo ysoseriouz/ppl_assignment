@@ -1,0 +1,19 @@
+
+Var: a, b; 
+Function: test 
+Parameter: x, y 
+Body: 
+    a = "Hi"; 
+EndBody. 
+
+Function: foo 
+Parameter: a, c 
+Body: 
+    For (i = 1, i <= 4, 1) Do 
+        print(i); 
+    EndFor. 
+    x = x % y;
+    y = y * z; 
+    z = z && x; 
+    Return a + c; 
+EndBody.

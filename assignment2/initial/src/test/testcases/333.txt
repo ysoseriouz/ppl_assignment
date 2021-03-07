@@ -1,0 +1,6 @@
+
+Function: test
+Body: 
+    Var: x;
+    x = -True;
+EndBody.

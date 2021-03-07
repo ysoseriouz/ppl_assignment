@@ -1,0 +1,14 @@
+
+Function: isPrime
+Parameter: n
+Body:
+    Var: i;
+    If n <= 1 Then Return False; EndIf.
+
+    For(i = 2, i <= n \ 2, 1) Do
+        If n % i == 0 Then
+            Return False;
+        EndIf.
+    EndFor.
+    Return True;
+EndBody.

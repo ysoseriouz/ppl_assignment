@@ -1,0 +1,5 @@
+
+Function: main
+Body:
+    a = ** comment goes here **  6*6;
+EndBody.

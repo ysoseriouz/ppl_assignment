@@ -1,0 +1,5 @@
+
+Function: main
+Body:
+    foo()[a<b] = 0;
+EndBody.

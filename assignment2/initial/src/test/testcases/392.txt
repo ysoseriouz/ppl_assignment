@@ -1,0 +1,20 @@
+
+Function: isPrime
+Parameter: n, i=2         ** Default: i = 2 **
+Body:
+    If n == 2 Then
+        Return True;
+    ElseIf n < 2 Then
+        Return False;
+    EndIf.
+    
+    If n % i == 0 Then
+        Return False;
+    EndIf.
+    
+    If i * i > n Then
+        Return True;
+    EndIf.
+
+    Return isPrime(n, i + 1);
+EndBody.

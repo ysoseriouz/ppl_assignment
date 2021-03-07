@@ -1,0 +1,6 @@
+
+                ** @Author: Nguyen Tien Thanh **
+                ** A comment**
+                Var: x = 1;
+                ** Another comment at the end**
+                

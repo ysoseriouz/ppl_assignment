@@ -1,0 +1,6 @@
+
+Function: less 
+Body: 
+    a = (a <= b) <. c;
+    a = (a < b) <=. c; 
+EndBody.

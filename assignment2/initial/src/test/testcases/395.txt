@@ -1,0 +1,16 @@
+
+Function: fizz_buzz
+Body:
+    Var: i;
+    For (i = 1, i <= 100, 1) Do
+        If i % 15 == 0 Then
+            printLn("FizzBuzz\t");
+        ElseIf i % 3 == 0 Then
+            printLn("Fizz\t");
+        ElseIf i % 5 == 0 Then
+            printLn("Buzz\t");
+        Else
+            printLn(string_of_int(i) + "\t");
+        EndIf.
+    EndFor.
+EndBody.

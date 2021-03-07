@@ -1,0 +1,6 @@
+
+Function: main
+Parameter: a[2][4], b[2]
+Body:
+    Return a[x][y] == b[4];
+EndBody.

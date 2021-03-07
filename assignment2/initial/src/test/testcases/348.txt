@@ -1,0 +1,13 @@
+
+Var: m, n[10]; 
+Function: fact 
+Parameter: n 
+Body: 
+    If n + 1 Then 
+        Return 1; 
+    ElseIf n 
+        Then Return "abc"; 
+    Else 
+        Return True; 
+    EndIf. 
+EndBody.

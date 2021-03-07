@@ -1,0 +1,5 @@
+
+Function: test
+Body: 
+    Var: a, b, c = test(), para(x, y);
+EndBody.

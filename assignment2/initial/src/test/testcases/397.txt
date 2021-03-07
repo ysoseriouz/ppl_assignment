@@ -1,0 +1,12 @@
+
+Function: search
+Parameter: target, arr, size
+Body:
+    Var: idx;
+    For (idx = 0, idx < size, 1) Do
+        If arr[idx] == target Then
+            Return idx;
+        EndIf.
+    EndFor.
+    Return -1;
+EndBody.

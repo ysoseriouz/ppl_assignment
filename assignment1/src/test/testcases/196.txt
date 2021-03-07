@@ -1,0 +1,8 @@
+
+                ** @Author: Nguyen Tien Thanh 
+                 * This is a
+                 * multi-line
+                 * Comment
+                Var: x = 1;
+                **
+                

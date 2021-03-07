@@ -1,0 +1,15 @@
+
+Function: fibo
+Parameter: x
+Body:
+    If (x == 1) || (x == 0) Then 
+        Return 1;
+    Else
+        Return fibo(x-1) + fibo(x-2);
+    EndIf.
+EndBody.
+
+Function: main
+Body:
+    fibo(3);
+EndBody.

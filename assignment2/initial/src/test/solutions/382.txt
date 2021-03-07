@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a)),VarDecl(Id(b),IntLiteral(100)),VarDecl(Id(c),BooleanLiteral(true)),FuncDecl(Id(test)[VarDecl(Id(x)),VarDecl(Id(y),IntLiteral(1)),VarDecl(Id(z),[5])],([][Assign(Id(t),CallExpr(Id(factor),[Id(x),Id(y),Id(z)])),Return(Id(t))]))])

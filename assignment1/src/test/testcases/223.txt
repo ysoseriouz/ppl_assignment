@@ -1,0 +1,7 @@
+
+Function: foo 
+Body: 
+    Function: test 
+    Body: 
+    EndBody. 
+EndBody.

@@ -1,0 +1,23 @@
+
+Function: isPalindrome
+Parameter: str
+Body:
+    Var: len = length(str);
+    Var: i;
+    For(i = 0, i < length \ 2, 1) Do
+        If str[i] =/= str[length - i - 1] Then
+            Return False;
+        EndIf.
+    EndFor.
+    Return True;
+EndBody.
+
+Function: length
+Parameter: str
+Body:
+    Var: i = 0;
+    While str[i] == null Do
+        i = i + 1;
+    EndWhile.
+    Return i;
+EndBody.

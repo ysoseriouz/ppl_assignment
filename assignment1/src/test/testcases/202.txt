@@ -1,0 +1,2 @@
+
+Var: m, n[10]; Function: fact Parameter: n Body: If n == 0 Then Return 1; Else Return n * fact (n-1); EndIf. EndBody.

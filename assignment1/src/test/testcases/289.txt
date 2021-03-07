@@ -1,0 +1,11 @@
+
+Function: foo 
+Body:
+    Var: i, j = 0, 0;
+    If i == 1 Then
+        If j =/= 0 Then
+            Return True;
+        Else
+            print("Hello");
+    EndIf.
+EndBody.

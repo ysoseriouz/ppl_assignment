@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[VarDecl(Id(a),[2,4]),VarDecl(Id(b),[2])],([][Return(BinaryOp(==,ArrayCell(Id(a),[Id(x),Id(y)]),ArrayCell(Id(b),[IntLiteral(4)])))]))])

@@ -1,0 +1,5 @@
+
+Function: main
+Body:
+    a[3 + foo(2)] = a[b[2][3]] - 4;
+EndBody.

@@ -1,0 +1,7 @@
+
+Function: main
+Body:
+    For(i = i == 0, f % 4, c) Do
+        e[2][3][4] = t[6][7][8];
+    EndFor.
+EndBody.

@@ -1,0 +1,6 @@
+
+Function: test 
+Body: 
+    Var: a;
+    a = {1, 2.0};
+EndBody.

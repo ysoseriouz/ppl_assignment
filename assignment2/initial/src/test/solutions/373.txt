@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(mix)[],([][Assign(Id(a),BinaryOp(==,BinaryOp(>,BinaryOp(-,BinaryOp(+,BinaryOp(%,BinaryOp(\,BinaryOp(*,Id(a),Id(b)),Id(c)),Id(d)),Id(f)),Id(h)),BinaryOp(&&,BinaryOp(||,Id(b),Id(c)),Id(m))),BinaryOp(!=,BinaryOp(||,Id(v),Id(a)),Id(a))))]))])

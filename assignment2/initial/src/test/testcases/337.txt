@@ -1,0 +1,6 @@
+
+Function: main
+Body:
+    Var: a;
+    a = {1, 2, 3} - {1, 2, 3};
+EndBody.

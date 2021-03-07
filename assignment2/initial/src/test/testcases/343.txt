@@ -1,0 +1,9 @@
+
+Function: foo 
+Parameter: a, c 
+Body: 
+    While i <= 4 Do 
+        print(i); 
+    EndWhile. 
+    Return a + c; 
+EndBody.

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(test)[],([VarDecl(Id(a)),VarDecl(Id(b)),VarDecl(Id(c))][Assign(Id(a),BinaryOp(>,Id(a),Id(b))),Assign(Id(b),BinaryOp(>=,Id(a),Id(c)))]))])

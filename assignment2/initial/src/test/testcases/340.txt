@@ -1,0 +1,6 @@
+
+Function: main
+Body:
+    Var: a;
+    a = a && "Hello world!";
+EndBody.

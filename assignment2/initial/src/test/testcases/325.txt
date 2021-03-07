@@ -1,0 +1,17 @@
+
+Function: test1 
+Parameter: n 
+Body: 
+    If n > 10 Then 
+        Return 5; 
+    Else Return True; 
+    EndIf. 
+EndBody. 
+
+Function: test2 
+Parameter: n 
+Body: 
+    If n > 10 Then Return 5; 
+    Else Return True; 
+    EndIf. 
+EndBody.

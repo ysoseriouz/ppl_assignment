@@ -1,0 +1,10 @@
+
+Function: foo 
+Parameter: a, c 
+Body: 
+    Do 
+        print(i); 
+    While (foo()) 
+    EndDo. 
+    Return a + c;
+EndBody.

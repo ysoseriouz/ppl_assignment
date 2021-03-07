@@ -1,0 +1,16 @@
+
+Function: blackjack
+Parameter: a, b
+Body:
+    Var: sum = a + b;
+    If sum > 21 Then
+        If a == 11 Then
+            sum = 1 + b;
+        ElseIf b == 11 Then
+            sum = 1 + a;
+        Else
+            sum = 0;
+        EndIf.
+    EndIf.
+    Return sum;
+EndBody.

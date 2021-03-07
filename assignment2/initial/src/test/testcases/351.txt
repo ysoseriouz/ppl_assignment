@@ -1,0 +1,6 @@
+
+Function: main
+Body:
+    For (i = foo()[1], i < foo(2,{1,2,3},4), {{3}}) Do
+    EndFor.
+EndBody.

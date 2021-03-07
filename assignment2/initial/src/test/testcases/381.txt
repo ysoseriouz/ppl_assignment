@@ -1,0 +1,5 @@
+
+Function: main
+Body:
+    Return 6 + !a[foo()][-a && 6];
+EndBody.

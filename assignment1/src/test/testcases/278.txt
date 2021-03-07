@@ -1,0 +1,12 @@
+
+Function: test 
+Parameter: suite 
+Body: 
+    import(pprint); 
+    import(stringIO); 
+    stream = stringIO(); 
+    runner = unittest(textTestRunner(stream==stream));
+    result = runner(run(suite));
+    print("Tests run", result(testsRun)); 
+    print("Errors ", result(errors));
+EndBody. 

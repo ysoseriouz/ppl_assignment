@@ -1,0 +1,11 @@
+
+Function: stmtmix 
+Body: 
+    While (False) Do 
+        Return "abc"; 
+    EndWhile. 
+    foo(); 
+    print(n); 
+    If (foo()) Then Break; 
+    EndIf. 
+EndBody.

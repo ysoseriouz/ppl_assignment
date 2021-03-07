@@ -1,0 +1,2 @@
+
+Var: a[0x1][0o7][56] = {"True", True}, literal, array;

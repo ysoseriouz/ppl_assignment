@@ -1,0 +1,13 @@
+
+Function: gcd
+Parameter: a, b
+Body:
+    While a =/= b Do
+        If a > b Then
+            a = a - b;
+        Else
+            b = b - a;
+        EndIf.
+    EndWhile.
+    Return a;
+EndBody.

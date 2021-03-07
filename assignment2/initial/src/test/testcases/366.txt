@@ -1,0 +1,7 @@
+
+Function: addsub 
+Body: 
+    s = a - b && c; 
+    b[u] = u; 
+    a = k + u[j]; 
+    EndBody.

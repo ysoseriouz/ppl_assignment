@@ -1,0 +1,5 @@
+
+Function: foo 
+Body:
+    Var: x = 8;
+endbody.

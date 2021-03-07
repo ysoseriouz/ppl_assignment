@@ -1,0 +1,5 @@
+
+Function: main
+Body:
+    ((--w[2])[3][8])[7][9] = a;
+EndBody.

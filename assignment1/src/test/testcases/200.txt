@@ -1,0 +1,11 @@
+
+                ** @Author: Nguyen Tien Thanh 
+                 * This is weird testcase
+                **
+                Var: x, b[2] = {
+                    ** This is a comment inside array **
+                    1, 2, 5
+                    ** another comment,
+                    3, 4 **
+                };
+                
